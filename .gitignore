@@ -1,0 +1,18 @@
+# Ignorar archivos de entorno (ej: .env con contraseñas)
+.env
+
+# Ignorar carpetas de dependencias
+node_modules/
+__pycache__/
+
+# Ignorar archivos generados por el sistema
+*.log
+*.tmp
+
+# Ignorar archivos de IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Ignorar archivos binarios (ej: ejecutables)
+*.exe
+*.dll
